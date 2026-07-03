@@ -23,6 +23,9 @@ FloodMap focuses on simple, intuitive, real-time visualization.
 - ITS Korea
 - Weather API
 
+Each dataset follows its own license.
+Please refer to the original provider for licensing information.
+
 ## Roadmap
 
 - [ ] MVP
